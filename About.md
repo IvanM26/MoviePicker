@@ -30,3 +30,6 @@ Each point in the **plot** represents a movie. The axis are *Number of Votes* an
 
 The **table** shows detailed information of the movies that follow the filters you applied, and/or that you *selected* in the plot. By default, movies are ordered by number of votes. This can be modified by clicking the columns. Also, the title is linked to the movie's IMDB website.
 
+# Code
+
+You can check the code used to produce this app in my [Github Repo](https://github.com/IvanM26/MoviePicker).
