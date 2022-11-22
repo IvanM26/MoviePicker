@@ -1,7 +1,7 @@
 genres_list <- readRDS("data/genres-list.rds")
 
 library(shiny)
-library(tidyverse)
+library(dplyr)
 library(plotly)
 library(DT)
 
